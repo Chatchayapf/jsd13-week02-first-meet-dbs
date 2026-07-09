@@ -1,0 +1,18 @@
+{
+  "_id": "001",
+  "username": "winter",
+  "email": "winter@example.com",
+  "password": "1234_password",
+  "role": "[buyer/seller]",
+  "created_at": "2026-02-14T10:00:00Z",
+  "shopping_cart": [
+    {
+      "product_id": "001",
+      "quantity": "2"
+    },
+    {
+      "product_id": "002",
+      "quantity": "1"
+    }
+  ]
+}
