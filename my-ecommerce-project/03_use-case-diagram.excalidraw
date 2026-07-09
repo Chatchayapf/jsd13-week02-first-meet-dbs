@@ -26,7 +26,7 @@
       "version": 27,
       "versionNonce": 818681205,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1783569429200,
       "link": null,
       "locked": false,
@@ -65,7 +65,7 @@
       "version": 100,
       "versionNonce": 2113866933,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1783569055172,
       "link": null,
       "locked": false
@@ -92,11 +92,20 @@
         "type": 3
       },
       "seed": 535896949,
-      "version": 40,
-      "versionNonce": 185743093,
+      "version": 42,
+      "versionNonce": 264619717,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1783569060239,
+      "boundElements": [
+        {
+          "id": "aAVmaDPxAIPxzdE-GWkO1",
+          "type": "arrow"
+        },
+        {
+          "id": "_o3RZh53zszHZqlZjx82u",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783577740256,
       "link": null,
       "locked": false
     },
@@ -123,7 +132,7 @@
       "version": 317,
       "versionNonce": 1036126933,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1783569442886,
       "link": null,
       "locked": false,
@@ -196,11 +205,11 @@
         "type": 2
       },
       "seed": 441936987,
-      "version": 126,
-      "versionNonce": 1642506843,
+      "version": 128,
+      "versionNonce": 1253066693,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1783569351993,
+      "updated": 1783577743708,
       "link": null,
       "locked": false
     },
@@ -227,7 +236,7 @@
       "version": 85,
       "versionNonce": 1347646715,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1783569491520,
       "link": null,
       "locked": false,
@@ -240,6 +249,106 @@
       "originalText": "Use case diagram ชุมชนปล่อยของติ่ง \n(Fan Merchandise Marketplace)",
       "autoResize": true,
       "lineHeight": 1.35
+    },
+    {
+      "id": "aAVmaDPxAIPxzdE-GWkO1",
+      "type": "arrow",
+      "x": 342,
+      "y": 262.18535620812656,
+      "width": 31,
+      "height": 1,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1866063979,
+      "version": 21,
+      "versionNonce": 650440069,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1783577734431,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "lZvIv35tKg2x1KphXAjhm",
+        "focus": 0.27302548247838193,
+        "gap": 18
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "_o3RZh53zszHZqlZjx82u",
+      "type": "arrow",
+      "x": 601,
+      "y": 289.18535620812656,
+      "width": 51,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1222296203,
+      "version": 84,
+      "versionNonce": 923279339,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1783577745591,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          51,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "lZvIv35tKg2x1KphXAjhm",
+        "focus": -0.1408311345177376,
+        "gap": 15
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {

@@ -1,13 +1,13 @@
 # MY PROBLEM
-Describe the human problems (the pain points your business addresses)
+1.Describe the human problems (the pain points your business addresses)
 - เว็บปล่อยของ/ส่งต่อ/ตามหา ของติ่งศิลปิน-ดารา 
 - พอนานๆไปโพสต์จะถูกทับหรือดันลงไป ทำให้ไม่เห็นโพสต์นั้นแล้ว
 
-Describe how your solution solves these problems
+2.Describe how your solution solves these problems
 - ทำให้คนตามหาสิ่งต้องการง่ายขึ้น
 - ค้นหาสิ่งต้องการตาม keyword ที่สนใจ
 
-Describe your ecommerce business idea including core features
+3.Describe your ecommerce business idea including core features
 - ใช้ keyword ของศิลปิน
 - keyword ชื่อสิ่งของนั้นๆในการที่ทำให้คนต้องการหา
 - คลิกไปยังต้น post
