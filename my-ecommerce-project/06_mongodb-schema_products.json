@@ -19,6 +19,36 @@
       "source_platform": "example",
       "status": "available",
       "created": "2026-02-14T10:00:00Z"
+    },
+    {
+      "product_id": "002",
+      "quantity": "1",
+      "title": "Vinyl Record",
+      "description": "A classic vinyl record by K artist",
+      "price": 35.00,
+      "condition": "used",
+      "category": "Music",
+      "artist_name": "K",
+      "images": ["https://example.com/vinyl1.jpg"],
+      "original_post_url": "https://example.com/vinyl1",
+      "source_platform": "example",
+      "status": "available",
+      "created": "2026-02-14T10:00:00Z"
+    },
+    {
+      "product_id": "003",
+      "quantity": "3",
+      "title": "Digital Album",
+      "description": "A digital album by L artist",
+      "price": 15.00,
+      "condition": "new",
+      "category": "Music",
+      "artist_name": "L",
+      "images": ["https://example.com/digital1.jpg"],
+      "original_post_url": "https://example.com/digital1",
+      "source_platform": "example",
+      "status": "available",
+      "created": "2026-02-14T10:00:00Z"
     }
   ]
 }

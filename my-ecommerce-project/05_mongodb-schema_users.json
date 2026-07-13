@@ -13,6 +13,10 @@
     {
       "product_id": "002",
       "quantity": "1"
+    },
+    {
+      "product_id": "003",
+      "quantity": "3"
     }
   ]
 }
